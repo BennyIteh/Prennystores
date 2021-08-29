@@ -1,5 +1,9 @@
 #header-1{
-    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     color: red;
+}
+
+#header-2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
 }
