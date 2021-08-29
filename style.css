@@ -29,3 +29,7 @@
 #products-table{
     text-align: center;
 }
+
+tr{
+    padding: 5px;
+}
