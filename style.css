@@ -1,11 +1,13 @@
 #header-1{
     font-family: 'Courier New', Courier, monospace;
     color: red;
+    text-align: center;
 }
 
 #header-2{
     font-family: 'Courier New', Courier, monospace;
     color: blue;
+    text-align: center;
 }
 
 #header-3{
