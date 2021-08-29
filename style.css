@@ -20,3 +20,8 @@
     color: blue;
     margin-right: 50px;
 }
+
+.footer{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
