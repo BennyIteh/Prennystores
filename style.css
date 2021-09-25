@@ -2,19 +2,19 @@
     background-color: bisque;
 }
 
-.header-1{
+.header-title{
     font-family: 'Courier New', Courier, monospace;
     color: red;
     text-align: center;
 }
 
-.header-2{
+.header-subtitle{
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     text-align: center;
 }
 
-.header-3{
+.header-link{
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
     color: blue;
