@@ -3,7 +3,7 @@
 }
 
 .header-title{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
     text-align: center;
 }
@@ -17,8 +17,11 @@
 .header-link{
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
-    color: blue;
     margin-right: 50px;
+}
+
+.link-color{
+    color: red;
 }
 
 .footer{
@@ -30,4 +33,9 @@ tr, td{
     padding: 80px;
     padding-top: 100px;
     font-size: 20px;
+    color: blue;
+}
+
+.link-color:hover{
+    color: black;
 }
