@@ -1,5 +1,5 @@
 .body-characteristics{
-    background-color: bisque;
+    background-color: aliceblue;
 }
 
 .header-title{
@@ -34,8 +34,16 @@ tr, td{
     padding-top: 100px;
     font-size: 20px;
     color: blue;
+    flex-wrap: wrap;
 }
 
 .link-color:hover{
     color: black;
+}
+
+#blockquote{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
 }
