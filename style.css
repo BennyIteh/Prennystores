@@ -2,16 +2,18 @@
     background-color: aliceblue;
 }
 
+.main-header{
+    text-align: left;
+}
+
 .header-title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
-    text-align: center;
 }
 
 .header-subtitle{
     font-family: 'Courier New', Courier, monospace;
     color: blue;
-    text-align: center;
 }
 
 .header-link{
@@ -46,4 +48,14 @@ tr, td{
     font-size: 50px;
     font-weight: bold;
     text-align: center;
+}
+
+.image1{
+    display: flex;
+    justify-content: center;
+    top: 60%;
+}
+
+.img1{
+    width: 80%;
 }
